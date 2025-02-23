@@ -1,3 +1,7 @@
 {
   "extends": "@react-native/typescript-config/tsconfig.json"
 }
+
+
+
+// const GEMINI_API_KEY = 'AIzaSyD-pHH0raPrVMDe7f8x1BEXLNSF0dJdVUI';
